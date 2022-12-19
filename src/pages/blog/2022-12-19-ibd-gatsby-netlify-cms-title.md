@@ -6,4 +6,4 @@ description: IBD Gatsby Netlify CMS - Desc
 featuredpost: true
 featuredimage: /img/bg-graphic-art.webp
 ---
-IBD Gatsby Netlify CMS - Body
+IBD Gatsby Netlify CMS - Body 2
